@@ -31,7 +31,14 @@
 	},
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
-		"ms-python.python"
+		"ms-python.python",
+		"magicstack.magicpython",
+		"visualstudioexptteam.vscodeintellicode",
+		"streetsidesoftware.code-spell-checker",
+		"naumovs.color-highlight",
+		"editorconfig.editorconfig",
+		"streetsidesoftware.code-spell-checker-portuguese-brazilian",
+		"yzhang.markdown-all-in-one"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [9000],
